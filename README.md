@@ -1,4 +1,4 @@
-# Hi there 🤘🏻✌🏻 I am Victor Busato! <br/> <br/>
+# Hi there 🤘🏻 I am Victor Busato! <br/> <br/>
 
 <!-- Body of Text Under Headline-->
 
