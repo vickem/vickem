@@ -24,4 +24,4 @@ I have spent a lot of my free time with studying and practicing Frontend in an e
 
 <!-- Social Links With follower Counts -->
 
-</a><a href="https://www.linkedin.com/in/victorsilvabusato/"><img alt="Linkedin" src="https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=Linkedin">&nbsp;<br/>
+</a><a href="https://www.linkedin.com/in/victorsilvabusato/">
