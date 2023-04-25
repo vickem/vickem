@@ -5,17 +5,15 @@
 I am a Frontend Developer who has a passion for helping others. Currently working to land my first jobs in tech. I am currently working on creating more resources in my free time to improve both my skills, resume and portfolio. Development is something I truly enjoy and hope to keep working on interesting projects!
 <br/> <br/>
 
-## My Current Tech Stack professionally is <br/>
+## My Current Tech Stack professionally is <br/> <br/>
 
 <img style="height:50px" src="./assets/html.svg" />
 <img style="height:50px" src="./assets/css.svg" />
 <img style="height:50px" src="./assets/javascript.svg" />
- <br/>
 <img style="height:50px" src="./assets/tailwind.svg" />
 <img style="height:50px" src="./assets/bootstrap.svg" />
 <img style="height:50px" src="./assets/nodejs.svg" />
 <img style="height:50px" src="./assets/figma.svg" />
-<br />
 
 ## Languages & Tools I'm Curently Studying! <br/>
 
