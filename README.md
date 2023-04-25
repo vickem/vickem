@@ -7,20 +7,20 @@ I am a Frontend Developer who has a passion for helping others. Currently workin
 
 ## My Current Tech Stack professionally is <br/> <br/>
 
-<img style="height:50px" src="./assets/html.svg" />
-<img style="height:50px" src="./assets/css.svg" />
-<img style="height:50px" src="./assets/javascript.svg" />
-<img style="height:50px" src="./assets/tailwind.svg" />
-<img style="height:50px" src="./assets/bootstrap.svg" />
-<img style="height:50px" src="./assets/nodejs.svg" />
-<img style="height:50px" src="./assets/figma.svg" />
+<img style="height: 50px; max-width: 100%;" src="./assets/html.svg" />
+<img style="height: 50px; max-width: 100%;" src="./assets/css.svg" />
+<img style="height: 50px; max-width: 100%;" src="./assets/javascript.svg" />
+<img style="height: 50px; max-width: 100%;" src="./assets/tailwind.svg" />
+<img style="height: 50px; max-width: 100%;" src="./assets/bootstrap.svg" />
+<img style="height: 50px; max-width: 100%;" src="./assets/nodejs.svg" />
+<img style="height: 50px; max-width: 100%;" src="./assets/figma.svg" />
 
 ## Languages & Tools I'm Curently Studying! <br/>
 
 I have spent a lot of my free time with studying and practicing Frontend in an effort to migrate to the tech area. I have more than 12 years of UI/UX and graphic design experience and I'm trying to fuse the best of both worlds to deliver great designs with a great experience, taking advantage of frontend techniques. <br/> <br/>
-<img style="height:50px" src="./assets/angular.svg" />
-<img style="height:50px" src="./assets/react.svg" />
-<img style="height:50px" src="./assets/vue.svg" />
+<img style="height: 50px; max-width: 100%;" src="./assets/angular.svg" />
+<img style="height: 50px; max-width: 100%;" src="./assets/react.svg" />
+<img style="height: 50px; max-width: 100%;" src="./assets/vue.svg" />
 
 <!-- Social Links With follower Counts -->
 
