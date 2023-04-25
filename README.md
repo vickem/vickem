@@ -10,6 +10,7 @@ I am a Frontend Developer who has a passion for helping others. Currently workin
 <img style="height:50px" src="./assets/html.svg" />
 <img style="height:50px" src="./assets/css.svg" />
 <img style="height:50px" src="./assets/javascript.svg" />
+ <br/>
 <img style="height:50px" src="./assets/tailwind.svg" />
 <img style="height:50px" src="./assets/bootstrap.svg" />
 <img style="height:50px" src="./assets/nodejs.svg" />
@@ -18,12 +19,10 @@ I am a Frontend Developer who has a passion for helping others. Currently workin
 
 ## Languages & Tools I'm Curently Studying! <br/>
 
-I have spent a lot of my free time with studying and practicing Frontend in an effort to migrate to the tech area. I have more than 12 years of UI/UX and graphic design experience and I'm trying to fuse the best of both worlds to deliver great designs with a great experience, taking advantage of frontend techniques. <br/> <br/><!--
+I have spent a lot of my free time with studying and practicing Frontend in an effort to migrate to the tech area. I have more than 12 years of UI/UX and graphic design experience and I'm trying to fuse the best of both worlds to deliver great designs with a great experience, taking advantage of frontend techniques. <br/> <br/>
 <img style="height:50px" src="./assets/angular.svg" />
 <img style="height:50px" src="./assets/react.svg" />
 <img style="height:50px" src="./assets/vue.svg" />
-
----
 
 <!-- Social Links With follower Counts -->
 
