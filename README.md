@@ -12,6 +12,7 @@ I am a Frontend Developer who has a passion for helping others. Currently workin
 <img style="height: 50px; max-width: 100%;" src="./assets/javascript.svg" />
 <img style="height: 50px; max-width: 100%;" src="./assets/tailwind.svg" />
 <img style="height: 50px; max-width: 100%;" src="./assets/bootstrap.svg" />
+<img style="height: 50px; max-width: 100%;" src="./assets/sass.svg" />
 <img style="height: 50px; max-width: 100%;" src="./assets/nodejs.svg" />
 <img style="height: 50px; max-width: 100%;" src="./assets/figma.svg" />
 </section>
