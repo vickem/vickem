@@ -11,7 +11,7 @@ I have spent a lot of my free time with studying and practicing Frontend in an e
 ## What I Currently have Studied A.K.A. The Tech Stack is <br/> <br/>
 
 <a href="https://github.com/vickem">
-  <img align="right" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickem&layout=compact&theme=react" alt="Top languages" />
+  <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickem&layout=compact&theme=react" alt="Top languages" />
 </a>
 
 <section>
