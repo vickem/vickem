@@ -15,6 +15,7 @@ I am a Frontend Developer who has a passion for helping others. Currently workin
 <img style="height: 50px; max-width: 100%;" src="./assets/sass.svg" />
 <img style="height: 50px; max-width: 100%;" src="./assets/nodejs.svg" />
 <img style="height: 50px; max-width: 100%;" src="./assets/figma.svg" />
+<img style="height: 50px; max-width: 100%;" src="./assets/vue.svg" />
 </section>
 
 ## Languages & Tools I'm Curently Studying! <br/> <br/>
@@ -24,7 +25,6 @@ I have spent a lot of my free time with studying and practicing Frontend in an e
 <section>
 <img style="height: 50px; max-width: 100%;" src="./assets/angular.svg" />
 <img style="height: 50px; max-width: 100%;" src="./assets/react.svg" />
-<img style="height: 50px; max-width: 100%;" src="./assets/vue.svg" />
 </section>
 
 <!-- Social Links With follower Counts -->
