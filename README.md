@@ -26,9 +26,7 @@ I have spent a lot of my free time with studying and practicing Frontend in an e
 <img style="height: 50px; max-width: 100%;" src="./assets/vue.svg" />
 </section>
 
-<br/> <br/><br/> <br/>
-
-
+<br/> <br/>
 ## Languages & Tools I'm Curently Studying! <br/> <br/>
 
 <section>
